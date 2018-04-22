@@ -1,0 +1,8 @@
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFHostInISS\WCFHostInISS\bin\WCFHostInISS.dll.config
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFHostInISS\WCFHostInISS\bin\WCFHostInISS.dll
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFHostInISS\WCFHostInISS\bin\WCFHostInISS.pdb
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFHostInISS\WCFHostInISS\bin\StockService.dll
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFHostInISS\WCFHostInISS\bin\StockService.pdb
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFHostInISS\WCFHostInISS\obj\Debug\WCFHostInISS.csprojResolveAssemblyReference.cache
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFHostInISS\WCFHostInISS\obj\Debug\WCFHostInISS.dll
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFHostInISS\WCFHostInISS\obj\Debug\WCFHostInISS.pdb

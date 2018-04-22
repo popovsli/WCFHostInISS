@@ -1,0 +1,5 @@
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFHostInISS\StockService\bin\Release\StockService.dll.config
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFHostInISS\StockService\bin\Release\StockService.dll
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFHostInISS\StockService\bin\Release\StockService.pdb
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFHostInISS\StockService\obj\Release\StockService.dll
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFHostInISS\StockService\obj\Release\StockService.pdb

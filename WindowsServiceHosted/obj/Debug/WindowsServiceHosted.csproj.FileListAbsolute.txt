@@ -1,0 +1,8 @@
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFHostInISS\WindowsServiceHosted\bin\Debug\WindowsServiceHosted.exe.config
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFHostInISS\WindowsServiceHosted\bin\Debug\WindowsServiceHosted.exe
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFHostInISS\WindowsServiceHosted\bin\Debug\WindowsServiceHosted.pdb
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFHostInISS\WindowsServiceHosted\bin\Debug\StockService.dll
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFHostInISS\WindowsServiceHosted\bin\Debug\StockService.pdb
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFHostInISS\WindowsServiceHosted\obj\Debug\WindowsServiceHosted.csprojResolveAssemblyReference.cache
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFHostInISS\WindowsServiceHosted\obj\Debug\WindowsServiceHosted.exe
+c:\users\nrpopov\documents\visual studio 2013\Projects\WCFHostInISS\WindowsServiceHosted\obj\Debug\WindowsServiceHosted.pdb

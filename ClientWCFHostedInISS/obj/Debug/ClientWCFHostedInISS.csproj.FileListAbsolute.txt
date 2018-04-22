@@ -1,0 +1,6 @@
+c:\users\nrpopov\documents\visual studio 2013\Projects\ClientWCFHostedInISS\ClientWCFHostedInISS\bin\Debug\ClientWCFHostedInISS.exe.config
+c:\users\nrpopov\documents\visual studio 2013\Projects\ClientWCFHostedInISS\ClientWCFHostedInISS\bin\Debug\ClientWCFHostedInISS.exe
+c:\users\nrpopov\documents\visual studio 2013\Projects\ClientWCFHostedInISS\ClientWCFHostedInISS\bin\Debug\ClientWCFHostedInISS.pdb
+c:\users\nrpopov\documents\visual studio 2013\Projects\ClientWCFHostedInISS\ClientWCFHostedInISS\obj\Debug\ClientWCFHostedInISS.csprojResolveAssemblyReference.cache
+c:\users\nrpopov\documents\visual studio 2013\Projects\ClientWCFHostedInISS\ClientWCFHostedInISS\obj\Debug\ClientWCFHostedInISS.exe
+c:\users\nrpopov\documents\visual studio 2013\Projects\ClientWCFHostedInISS\ClientWCFHostedInISS\obj\Debug\ClientWCFHostedInISS.pdb
